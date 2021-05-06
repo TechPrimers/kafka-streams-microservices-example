@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/domain-crawler/domain-crawler.iml" filepath="$PROJECT_DIR$/domain-crawler/domain-crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain-processor/domain-processor.iml" filepath="$PROJECT_DIR$/domain-processor/domain-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain-service/domain-service.iml" filepath="$PROJECT_DIR$/domain-service/domain-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kafka-streams-example.iml" filepath="$PROJECT_DIR$/.idea/kafka-streams-example.iml" />
+    </modules>
+  </component>
+</project>
